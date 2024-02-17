@@ -1,0 +1,19 @@
+instalation=================================================
+
+1)pip install pipenv (if not exists)
+
+2)cd path/to/folder (set path)
+
+3)pipenv install (to install pipenv in that project folder)
+
+instalation=================================================
+
+using=======================================================
+
+1)pipenv shell
+
+2)cd path/to/folder
+
+3)python project.py
+
+using=======================================================
